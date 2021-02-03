@@ -1,7 +1,7 @@
-
 Linux CI (Travis CI):
 
 [![Build Status](https://travis-ci.com/mumble-voip/grumble.svg?branch=master)](https://travis-ci.com/mumble-voip/grumble)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNols1000%2Fgrumble.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNols1000%2Fgrumble?ref=badge_shield)
 
 Windows CI (AppVeyor):
 
@@ -97,3 +97,7 @@ services:
     volumes:
       - $HOME/.grumble:/data
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNols1000%2Fgrumble.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNols1000%2Fgrumble?ref=badge_large)
